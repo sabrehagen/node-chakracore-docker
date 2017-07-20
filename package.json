@@ -1,0 +1,24 @@
+{
+  "name": "node-chakracore-docker",
+  "version": "1.0.0",
+  "description": "Dockerfile for Node.js on ChakraCore",
+  "main": "Dockerfile",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabrehagen/node-chakracore-docker.git"
+  },
+  "keywords": [
+    "nodejs",
+    "chakracore",
+    "docker"
+  ],
+  "author": "Jackson Delahunt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabrehagen/node-chakracore-docker/issues"
+  },
+  "homepage": "https://github.com/sabrehagen/node-chakracore-docker#readme"
+}
